@@ -1,6 +1,6 @@
 # Perlin Noise 2D
 
-[Demon](https://perlin-noise-2d-demo.netlify.app/)
+[Demo](https://perlin-noise-2d-demo.netlify.app/)
 
 A simple 2D [Perlin Noise](https://wikipedia.org/wiki/Perlin_noise) implementation in JavaScript.
 
